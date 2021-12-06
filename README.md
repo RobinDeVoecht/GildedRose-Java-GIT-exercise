@@ -4,7 +4,7 @@ for different products but also will have to create some changes in the main fun
 The code is based on the Gilded Rose Refactoring Kata. It is used in the class of 2021 as well.
 
 # Gilded Rose Refactoring Kata
-
+Mijn eerste aanpassing!
 This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes). It is already on GitHub [here](https://github.com/NotMyself/GildedRose). See also [Bobby Johnson's description of the kata](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/).
 
 As Bobby Johnson points out in his article ["Why Most Solutions to Gilded Rose Miss The Bigger Picture"](http://iamnotmyself.com/2012/12/07/why-most-solutions-to-gilded-rose-miss-the-bigger-picture), it'll actually give you
